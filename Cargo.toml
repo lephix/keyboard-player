@@ -2,6 +2,10 @@
 name = "kb-player-bevy"
 version = "0.1.0"
 edition = "2024"
+description = "Keyboard typing practice game built with Bevy"
+authors = ["lephix"]
+license = "Apache-2.0"
+repository = "https://github.com/lephix/keyboard-player"
 
 [dependencies]
 bevy = "0.18.1"
